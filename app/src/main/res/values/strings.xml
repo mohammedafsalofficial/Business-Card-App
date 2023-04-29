@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="employee_name">Mohammed Afsal</string>
+    <string name="employee_position">Android Developer Extraordinaire</string>
+    <string name="employee_phone_no">+91 96296 17886</string>
+    <string name="employee_social">\@_moafsal</string>
+    <string name="employee_email_id">mohammedafsaltut@gmail.com</string>
+</resources>
